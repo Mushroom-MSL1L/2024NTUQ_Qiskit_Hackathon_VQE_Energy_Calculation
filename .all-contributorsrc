@@ -17,6 +17,30 @@
         "data",
         "content"
       ]
+    },
+    {
+      "login": "Pegasus2737",
+      "name": "Pegasus2737",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86604394?v=4",
+      "profile": "https://github.com/Pegasus2737",
+      "contributions": [
+        "code",
+        "example",
+        "research"
+      ]
+    },
+    {
+      "login": "yuto-terashima",
+      "name": "Yuto Terashima",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99735560?v=4",
+      "profile": "https://github.com/yuto-terashima",
+      "contributions": [
+        "code",
+        "translation",
+        "blog",
+        "doc",
+        "fundingFinding"
+      ]
     }
   ],
   "contributorsPerLine": 7,
