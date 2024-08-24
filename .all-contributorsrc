@@ -8,7 +8,16 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "leon53660713",
+      "login": "Mushroom-MSL1L",
+      "name": "Lu Junyou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136601880?v=4",
+      "profile": "https://github.com/Mushroom-MSL1L",
+      "contributions": [
+        "code",
+        "bug"
+      ]
+    },
+    {      "login": "leon53660713",
       "name": "leon53660713",
       "avatar_url": "https://avatars.githubusercontent.com/u/70371937?v=4",
       "profile": "https://github.com/leon53660713",
