@@ -1,16 +1,30 @@
 {
-    "files": ["readme.md"],
-    "imageSize": 100,
-    "commit": false,
-    "commitType": "docs",
-    "commitConvention": "angular",
-    "contributors": [
-
-    ],
-    "contributorsPerLine": 7,
-    "skipCi": true,
-    "repoType": "github",
-    "repoHost": "https://github.com",
-    "projectName": "2024NTUQ_Qiskit_Hackathon_VQE_Energy_Calculation",
-    "projectOwner": "Mushroom-MSL1L"
+  "files": [
+    "readme.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "yuto-terashima",
+      "name": "Yuto Terashima",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99735560?v=4",
+      "profile": "https://github.com/yuto-terashima",
+      "contributions": [
+        "code",
+        "translation",
+        "blog",
+        "doc",
+        "fundingFinding"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "2024NTUQ_Qiskit_Hackathon_VQE_Energy_Calculation",
+  "projectOwner": "Mushroom-MSL1L"
 }
