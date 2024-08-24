@@ -20,6 +20,13 @@
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Pegasus2737"><img src="https://avatars.githubusercontent.com/u/86604394?v=4?s=100" width="100px;" alt="Pegasus2737"/><br /><sub><b>Pegasus2737</b></sub></a><br /><a href="https://github.com/Mushroom-MSL1L/2024NTUQ_Qiskit_Hackathon_VQE_Energy_Calculation/commits?author=Pegasus2737" title="Code">💻</a> <a href="#example-Pegasus2737" title="Examples">💡</a> <a href="#research-Pegasus2737" title="Research">🔬</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
