@@ -20,6 +20,13 @@
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/leon53660713"><img src="https://avatars.githubusercontent.com/u/70371937?v=4?s=100" width="100px;" alt="leon53660713"/><br /><sub><b>leon53660713</b></sub></a><br /><a href="https://github.com/Mushroom-MSL1L/2024NTUQ_Qiskit_Hackathon_VQE_Energy_Calculation/commits?author=leon53660713" title="Code">💻</a> <a href="#data-leon53660713" title="Data">🔣</a> <a href="#content-leon53660713" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
