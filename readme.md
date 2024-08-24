@@ -15,7 +15,9 @@
     * Using $Z_2$ symmetry to reduce the size of the Hamiltonian matrix, so that we can reduce the quantum circuit depth.
 
 ## Thanks 
-* Sincerely thanks for our mentor, leo07010, who give us a lot of help and guidance.\\## Contributors
+* Sincerely thanks for our mentor, leo07010, who give us a lot of help and guidance.
+
+## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
