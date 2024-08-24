@@ -1,16 +1,28 @@
 {
-    "files": ["readme.md"],
-    "imageSize": 100,
-    "commit": false,
-    "commitType": "docs",
-    "commitConvention": "angular",
-    "contributors": [
-
-    ],
-    "contributorsPerLine": 7,
-    "skipCi": true,
-    "repoType": "github",
-    "repoHost": "https://github.com",
-    "projectName": "2024NTUQ_Qiskit_Hackathon_VQE_Energy_Calculation",
-    "projectOwner": "Mushroom-MSL1L"
+  "files": [
+    "readme.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Pegasus2737",
+      "name": "Pegasus2737",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86604394?v=4",
+      "profile": "https://github.com/Pegasus2737",
+      "contributions": [
+        "code",
+        "example",
+        "research"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "2024NTUQ_Qiskit_Hackathon_VQE_Energy_Calculation",
+  "projectOwner": "Mushroom-MSL1L"
 }
