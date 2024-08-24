@@ -24,6 +24,7 @@
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Pegasus2737"><img src="https://avatars.githubusercontent.com/u/86604394?v=4?s=100" width="100px;" alt="Pegasus2737"/><br /><sub><b>Pegasus2737</b></sub></a><br /><a href="https://github.com/Mushroom-MSL1L/2024NTUQ_Qiskit_Hackathon_VQE_Energy_Calculation/commits?author=Pegasus2737" title="Code">💻</a> <a href="#example-Pegasus2737" title="Examples">💡</a> <a href="#research-Pegasus2737" title="Research">🔬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/yuto-terashima"><img src="https://avatars.githubusercontent.com/u/99735560?v=4?s=100" width="100px;" alt="Yuto Terashima"/><br /><sub><b>Yuto Terashima</b></sub></a><br /><a href="https://github.com/Mushroom-MSL1L/2024NTUQ_Qiskit_Hackathon_VQE_Energy_Calculation/commits?author=yuto-terashima" title="Code">💻</a> <a href="#translation-yuto-terashima" title="Translation">🌍</a> <a href="#blog-yuto-terashima" title="Blogposts">📝</a> <a href="https://github.com/Mushroom-MSL1L/2024NTUQ_Qiskit_Hackathon_VQE_Energy_Calculation/commits?author=yuto-terashima" title="Documentation">📖</a> <a href="#fundingFinding-yuto-terashima" title="Funding Finding">🔍</a></td>
     </tr>
   </tbody>
 </table>
