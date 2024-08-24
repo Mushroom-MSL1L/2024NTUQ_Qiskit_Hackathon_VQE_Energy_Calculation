@@ -20,6 +20,13 @@
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Mushroom-MSL1L"><img src="https://avatars.githubusercontent.com/u/136601880?v=4?s=100" width="100px;" alt="Lu Junyou"/><br /><sub><b>Lu Junyou</b></sub></a><br /><a href="https://github.com/Mushroom-MSL1L/2024NTUQ_Qiskit_Hackathon_VQE_Energy_Calculation/commits?author=Mushroom-MSL1L" title="Code">💻</a> <a href="https://github.com/Mushroom-MSL1L/2024NTUQ_Qiskit_Hackathon_VQE_Energy_Calculation/issues?q=author%3AMushroom-MSL1L" title="Bug reports">🐛</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
